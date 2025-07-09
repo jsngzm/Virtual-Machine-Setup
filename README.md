@@ -13,9 +13,9 @@ This lab focused on installing and configuring a Linux virtual machine (Pop!_OS)
 - Troubleshooting common VM setup issues
 
 ## Tools Used
-- VirtualBox 7.1.6
+- VirtualBox
 - Pop!_OS ISO (Linux)
-- Windows 10 host system
+- Windows 11 host system
 - Linux terminal (APT, shell commands)
 - Core commands:
   - `sudo apt update && sudo apt upgrade`
