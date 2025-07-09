@@ -1,9 +1,9 @@
-# 🧰 Virtual Machine Setup: Pop!_OS in VirtualBox
+# Virtual Machine Setup: Pop!_OS in VirtualBox
 
-## 📝 Overview
+## Overview
 This lab focused on installing and configuring a Linux virtual machine (Pop!_OS) using Oracle VirtualBox. The goal was to demonstrate basic virtualization skills, successfully install a guest OS, and enhance usability with Guest Additions. The lab also included verifying system compatibility, troubleshooting installation issues, and enabling features like clipboard sharing and dynamic display scaling.
 
-## 💻 Skills Practiced
+## Skills Practiced
 - Verifying virtualization support on a host system
 - Installing and configuring VirtualBox
 - Creating and configuring a Linux virtual machine
@@ -12,7 +12,7 @@ This lab focused on installing and configuring a Linux virtual machine (Pop!_OS)
 - Enabling shared clipboard and dynamic screen resizing
 - Troubleshooting common VM setup issues
 
-## 🧪 Tools Used
+## Tools Used
 - VirtualBox 7.1.6
 - Pop!_OS ISO (Linux)
 - Windows 10 host system
@@ -22,10 +22,10 @@ This lab focused on installing and configuring a Linux virtual machine (Pop!_OS)
   - `sudo ./VBoxLinuxAdditions.run`
   - `sudo /sbin/rcvboxadd quicksetup all`
 
-## 📄 Lab Report
-[Click here to view the full PDF report](guzman_vst987-IS1003_Lab02.pdf)
+## Lab Report
+[Click here to view the full PDF report](virtualization-lab-jasonguzman.pdf)
 
-## 🎯 Key Takeaways
+## Key Takeaways
 - Verifying virtualization support is an essential first step when setting up a VM.
 - VirtualBox offers flexible configuration options for custom VM builds.
 - Linux systems can be installed and updated efficiently using command-line tools.
@@ -34,6 +34,6 @@ This lab focused on installing and configuring a Linux virtual machine (Pop!_OS)
 
 ---
 
-👨‍🎓 Completed by **Jason Guzman**  
-📚 Course: IS-1003 – Introduction to Cybersecurity  
-📅 Date: February 11, 2025
+Completed by **Jason Guzman**  
+Course: IS-1003 – Introduction to Cybersecurity  
+Date: February 11, 2025
